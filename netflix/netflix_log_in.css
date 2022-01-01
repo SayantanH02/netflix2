@@ -1,0 +1,40 @@
+.heading{
+    color: rgb(197, 13, 13);
+    text-align: right;
+    font-size: 300%;
+}
+.login{
+    color: white;
+    font-size: 150%;
+    text-align: right;
+}
+body{
+    background-image: url(image/netflix.jpg);
+}
+.btn {
+    background: #ed00e1;
+    background-image: -webkit-linear-gradient(top, #ed00e1, #422bb8);
+    background-image: -moz-linear-gradient(top, #ed00e1, #422bb8);
+    background-image: -ms-linear-gradient(top, #ed00e1, #422bb8);
+    background-image: -o-linear-gradient(top, #ed00e1, #422bb8);
+    background-image: linear-gradient(to bottom, #ed00e1, #422bb8);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Georgia;
+    color: #0f010a;
+    font-size: 13px;
+    padding: 4px 10px 8px 13px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #07d618;
+    background-image: -webkit-linear-gradient(top, #07d618, #0fd6d3);
+    background-image: -moz-linear-gradient(top, #07d618, #0fd6d3);
+    background-image: -ms-linear-gradient(top, #07d618, #0fd6d3);
+    background-image: -o-linear-gradient(top, #07d618, #0fd6d3);
+    background-image: linear-gradient(to bottom, #07d618, #0fd6d3);
+    text-decoration: none;
+  }
+  
